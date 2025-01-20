@@ -1,6 +1,6 @@
 # E-Commerce 🛒
 
-<li>Bu proje HTML5,CSS,JS ile oluşturulmuş E-Ticaret sitesi içerir.</li>
+<li>Bu proje HTML5,CSS,JS,API ile oluşturulmuş E-Ticaret sitesi içerir.</li>
 <li>Ürün ekleme,kaldırma,adet belirleme,sepet toplamı özelliklerini barındırır.</li>
 <li>Kullanıcı dostu arayüzü,duyarlı tasarımı ile kolay erişim olanağı sunar.</li>
 
